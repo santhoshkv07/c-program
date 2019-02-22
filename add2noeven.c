@@ -8,7 +8,7 @@ if(c%2==0)
 {
  printf("even");
 }
-else:
+else
 {
 printf("odd");
 }
