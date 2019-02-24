@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<math.h>
-int main(void) 
+int main()
 {
 	int n,a,d,s;
 	int N,D,A,S;
