@@ -9,8 +9,8 @@ scanf("%d",&x[i]);
 }
 for(int i=0;i<n;i++)
 {
-if(x[i]==k)
- printf("%d",i);
+if(i==k)
+ printf("%d",x[i]);
 }
 return 0;
 }
