@@ -8,9 +8,8 @@ int main()
     while(N)
     {
         product = product * (N % 10);
-
              N = N/ 10;
     }
-printf("%d",product);
+    printf("%d",product);
     return 0;
 }
